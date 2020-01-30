@@ -12,6 +12,7 @@ pyglet = "*"
 pytest-mock = "*"
 numpy = "*"
 imageio = "*"
+imageio-ffmpeg = "*"
 
 [requires]
 python_version = "3"

@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "f7dee11e10e5ef9450d6ad3dc6c8bb822ef29ad9207a165af53cfd93d00599a6"
+            "sha256": "bfcf19c58f0d4d8d5ddae789282da5dc38fc41b2c2d069cebf074dc07333391e"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -36,6 +36,17 @@
             ],
             "index": "pypi",
             "version": "==2.6.1"
+        },
+        "imageio-ffmpeg": {
+            "hashes": [
+                "sha256:28500544acdebc195159d53a4670b76d596f368b218317bad5d3cbf43b00d6c2",
+                "sha256:400345dd194f2cb2b424294aa0f3c90afce1de96879ffe3266afeece3494d93c",
+                "sha256:991416c0eed0d221229e67342b8264a8b9defdec61d8a9e7688b90dbb838fb1e",
+                "sha256:f3d4096bf6e211540c4f6b9628c56d8e700cf12027ed842724173ab9c6666d1a",
+                "sha256:f99476aa42aac2ca0657483b417874a825b2f526aaa8a7a823b8a803f366caab"
+            ],
+            "index": "pypi",
+            "version": "==0.3.0"
         },
         "importlib-metadata": {
             "hashes": [
