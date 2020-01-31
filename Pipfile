@@ -13,6 +13,7 @@ pytest-mock = "*"
 numpy = "*"
 imageio = "*"
 imageio-ffmpeg = "*"
+ffmpy = "*"
 
 [requires]
 python_version = "3"
